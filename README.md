@@ -51,8 +51,6 @@ Utilize the following time series models: moving average, simple average, and la
 ---
 
 # Conclusion
-- Using clustering on key features results in an increase in predictive accuracy and a reduction of overfitting.
-- There are a ton of variables that define wine quality but by using classification and our key features, we can reliably predict it.
 
 - Able to forcast inspection scores for restaraunts, cafe & bakery, and educational facilities using time series analysis.
 - With the violation discription and risk categpory I am San Francisco .
